@@ -42,9 +42,9 @@ export const clientsData: Client[] = [
   },
 
   {
-    id: "inPozarlogo",
+    id: "inpozarlogo",
     name: "inPozar",
-    logo: "/companies/inPozarlogo.jpg",
+    logo: "/companies/inpozarlogo.jpg",
   },
 
   {

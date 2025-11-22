@@ -28,8 +28,8 @@ export default function ContactPage() {
       return;
     }
 
-    if (!message || message.length < 30) {
-      toast("Message should be at least 30 characters long.");
+    if (!message || message.length < 10) {
+      toast("Message should be at least 10 characters long.");
       return;
     }
 
@@ -201,9 +201,26 @@ export default function ContactPage() {
                       type="text"
                       required
                       className="bg-gray-800/50 border-gray-600 text-white"
-                      placeholder="Your full name"
+                      placeholder="First name"
                     />
                   </div>
+                  <div>
+                    <label
+                      htmlFor="email"
+                      className="text-sm text-gray-300 mb-2 block"
+                    >
+                      Surname *
+                    </label>
+                    <Input
+                      id="surname"
+                      name="surname"
+                      type="text"
+                      required
+                      className="bg-gray-800/50 border-gray-600 text-white"
+                      placeholder="Last name"
+                    />
+                  </div>
+                  
                   <div>
                     <label
                       htmlFor="email"
@@ -218,6 +235,22 @@ export default function ContactPage() {
                       required
                       className="bg-gray-800/50 border-gray-600 text-white"
                       placeholder="email@example.com"
+                    />
+                  </div>
+                  <div>
+                    <label
+                      htmlFor="name"
+                      className="text-sm text-gray-300 mb-2 block"
+                    >
+                      Phone
+                    </label>
+                    <Input
+                      id="phone"
+                      name="phone"
+                      type="text"
+                      required
+                      className="bg-gray-800/50 border-gray-600 text-white"
+                      placeholder="(000) 000-000"
                     />
                   </div>
                 </div>

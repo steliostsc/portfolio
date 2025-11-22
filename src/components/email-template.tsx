@@ -10,7 +10,9 @@ import {
 
 type EmailTemplateProps = {
   name: string;
+  surname: string;
   email: string;
+  phone: string;
   message: string;
   projectType?: string;
   timeline?: string;
@@ -19,7 +21,9 @@ type EmailTemplateProps = {
 
 export const EmailTemplate = ({
   name,
+  surname,
   email,
+  phone,
   message,
   projectType = "Not specified",
   timeline = "Not specified",

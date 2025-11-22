@@ -51,7 +51,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900/50 backdrop-blur-md border-t border-gray-700/50 mt-20">
       <div className="max-w-6xl mx-auto px-4 py-12">
-        <div className="grid md:grid-cols-3 gap-50">
+        <div className="grid md:grid-cols-3 gap-8">
           {/* Brand */}
           <div className="space-y-4">
             <h3 className="text-xl font-bold">Stelios Tsekouras</h3>

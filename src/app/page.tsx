@@ -117,12 +117,12 @@ export default function HomePage() {
 
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen overflow-x-hidden">
       <MouseMoveEffect />
 
       {/* Projects Section */}
       <section id="projects" className="py-20 px-4">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-7xl mx-auto overflow-x-hidden">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -165,7 +165,8 @@ export default function HomePage() {
           </motion.div>
 
           {/* PROJECT GRID — CLEAN, FIXED, NO HOOKS INSIDE */}
-          <motion.div layout className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <motion.div layout className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 overflow-x-hidden">
+
             {displayedProjects.map((project, index) => (
               <motion.div
                 key={project.id}

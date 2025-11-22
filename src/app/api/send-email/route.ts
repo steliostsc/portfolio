@@ -2,10 +2,10 @@ import { EmailTemplate } from "@/components/email-template";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
-  const { name, email, message, projectType, timeline } = await req.json();
+  const { name, surname, email, phone, message, projectType, timeline } = await req.json();
 
   // Validate required fields
-  if (!name || !email || !message) {
+  if (!name || !surname || !email || !phone || !message) {
     return NextResponse.json(
       { error: "Missing required fields" },
       { status: 400 }
@@ -22,7 +22,7 @@ export async function POST(req: NextRequest) {
   }
 
   // Validate message length
-  if (message.trim().length < 30) {
+  if (message.trim().length < 10) {
     return NextResponse.json(
       { error: "Message should be at least 30 characters long" },
       { status: 400 }
@@ -55,7 +55,7 @@ export async function POST(req: NextRequest) {
       from: "From Portfolio <s.tsekouras12@gmail.com>",
       to: ["s.tsekouras12@gmail.com"],
       subject: `New Message from Portfolio - ${projectType || "General Inquiry"}`,
-      react: EmailTemplate({ name, email, message, projectType, timeline }),
+      react: EmailTemplate({ name, surname, email, phone, message, projectType, timeline }),
     });
 
     if (error) {
