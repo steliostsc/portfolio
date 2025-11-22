@@ -67,6 +67,7 @@ export async function POST(req: NextRequest) {
 
 
     return NextResponse.json({ success: true, data });
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
   } catch (err: any) {
   return NextResponse.json(
     { error: err?.message || "Failed to send email" },
