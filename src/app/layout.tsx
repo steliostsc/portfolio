@@ -55,35 +55,35 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.itsniloy.me",
+    url: "https://stsekouras.vercel.app",
     title: "Stelios Tsekouras – Video Editing Services",
     description:
-      "Passionate Video Editor and Motion Graphics Designer delivering clean, cinematic edits and dynamic visual storytelling using DaVinci Resolve, Premiere Pro, and After Effects.",
-    siteName: "Niloy Bhowmick Portfolio",
+      "I am Stelios Tsekouras, a professional Video Editor specializing in Short Form content for social media, delivering polished, impactful videos across political, influencer, tourism, and brand projects.",
+    siteName: "Stelios Tsekouras Portfolio",
     images: [
       {
-        url: "/niloybhowmick.png",
+        url: "/steliostsekouras.png",
         width: 1200,
         height: 630,
-        alt: "Niloy Bhowmick - Video Editor",
+        alt: "Stelios Tsekouras – Video Editing Services",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Niloy Bhowmick – Video Editor & Motion Graphics Designer",
+    title: "Stelios Tsekouras – Video Editing Services",
     description:
-      "Crafting cinematic edits, motion graphics, and powerful stories. Let's make your content stand out.",
-    creator: "@niloy_bhowmick", // update if you have a real Twitter handle
-    images: ["/niloybhowmick.png"],
+      "I produce short-form video content with precise editing, fluid transitions, and refined audio.",
+    //creator: "@niloy_bhowmick", // update if you have a real Twitter handle
+    images: ["/steliostsekouras.png"],
   },
   verification: {
     google: "your-google-verification-code",
   },
   alternates: {
-    canonical: "https://www.itsniloy.me",
+    canonical: "https://stsekouras.vercel.app",
   },
-  category: "Video Editing",
+  category: "Video Editing Services",
 };
 
 export default function RootLayout({

@@ -128,7 +128,7 @@ export default function ProjectPage() {
                 )
               ) : project.video_link.includes("tiktok.com") ? (
   <div className="relative w-full flex justify-center">
-    <div className="rounded-xl overflow-hidden bg-blue-900 p-0 m-0">
+    <div className="rounded-xl overflow-hidden bg-blue-900/4 p-0 m-0">
       <div className="tiktok-wrapper rounded-xl overflow-hidden">
   <TikTokEmbed
     videoLink={project.video_link}
@@ -174,7 +174,7 @@ export default function ProjectPage() {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8"> 
               <div>
                 <h3 className="text-lg font-semibold mb-3 text-white">Project Details</h3>
                 <div className="space-y-2 text-sm">
