@@ -27,24 +27,23 @@ export default function ProjectCard({
 
   return (
     <Link href={`/project/${project.id}`}>
-      <GlassmorphismCard className="p-6 h-full cursor-pointer group">
-        <div className="space-y-4 h-full flex flex-col">
+  <GlassmorphismCard className="p-6 h-full cursor-pointer group w-full min-w-0 box-border">
+    <div className="space-y-4 h-full flex flex-col min-w-0">
+      <div className="relative overflow-hidden rounded-lg h-48 bg-black min-w-0 w-full">
+        {!thumbSrc && (
+          <div className="w-full h-full flex items-center justify-center text-gray-400">
+            Loading...
+          </div>
+        )}
 
-          <div className="relative overflow-hidden rounded-lg h-48 bg-black">
-            {!thumbSrc && (
-              <div className="w-full h-full flex items-center justify-center text-gray-400">
-                Loading...
-              </div>
-            )}
-
-            {thumbSrc && (
-              <Image
-                src={thumbSrc}
-                alt={project.video_title}
-                fill
-                className="object-cover transition-transform duration-300 group-hover:scale-105"
-              />
-            )}
+        {thumbSrc && (
+          <Image
+            src={thumbSrc}
+            alt={project.video_title}
+            fill
+            className="object-cover transition-transform duration-300 group-hover:scale-105 min-w-0"
+          />
+        )}
 
             <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
               <Play size={40} className="text-white" />

@@ -97,6 +97,9 @@
   --chart-4: 280 65% 60%;
   --chart-5: 340 75% 55%;
 }
+html, body {
+  overflow-x: hidden;
+}
 
 /* @layer base {
   * {
@@ -120,6 +123,11 @@
 html, body {
   overflow-x: hidden !important;
 }
+/* prevent grid/flex children from forcing container width */
+.grid > * , .flex > * {
+  min-width: 0;
+}
+
 
 /* Smooth scroll class */
 .smooth-scroll {
@@ -361,3 +369,9 @@ body {
   margin: 0;
   padding: 0;
 }
+
+
+
+
+
+

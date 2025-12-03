@@ -381,7 +381,25 @@ export const allVideoProjects: VideoProject[] = [
 
   //------------------------------------------------------------------------------------------------------------------------------------
 
+  
+
   {
+  id: "lmSAfFDe2oI",
+  video_title: "inPozar: ΛΟΥΤΡΑ ΠΟΖΑΡ",
+  video_description: "Τέσσερις εποχές. Ένας προορισμός.Κάθε εποχή, ένα νέο πρόσωπο της φύσης. Κάθε σταγόνα, μια ιστορία που ψιθυρίζει μέσα στους ατμούς των Λουτρών Πόζαρ. 💧 Εδώ ο χειμώνας καίει με τη ζεστασιά του νερού. Η άνοιξη ανθίζει μέσα στον ήχο του ποταμού. Το καλοκαίρι λάμπει κάτω από το φως των βράχων. Και το φθινόπωρο ντύνει τα πάντα με χρυσό. 🍁 Αυτό δεν είναι απλώς ένας τόπος. Είναι μια εμπειρία που σε καλεί να την ζήσεις — ξανά και ξανά. Λουτρά Πόζαρ. Τέσσερις εποχές, ένας προορισμός. 🌿 #LoutraPozar #PozarThermalBaths #FourSeasonsOneDestination #inPozar #PozarExperience #VisitAlmopia #NatureDreams #GreeceAllYear #DiscoverGreece #ThermalEscape #PozarMagic #GreekNature",
+  tags: [],
+  cover_image: "lmSAfFDe2oI",
+  publish_date: "2025-10-15",
+  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
+  client_image: "/companies/inpozarlogo.jpg",
+  client_feedback: "",
+  video_link: "https://youtu.be/lmSAfFDe2oI?si=rQR1AbODfU1S-XSI",
+  project_images: [],
+  category: ["Tourism", "Cinematic"],
+  duration: "2:09",
+},
+
+{
     id: "CQIgelbnrwU",
     video_title: "Δημήτρης Μιχαηλίδης: Capriccioza Food Review",
     video_description: `Capriccioza! Αυτό το εστιατόριο θα σε ταξιδέψει στην Ιταλία!" "Απολαύστε ένα αυθεντικό food review στο ιταλικό εστιατόριο Capriccioza, όπου δοκιμάζουμε φρεσκοψημένη πίτσα, λαχταριστά ζυμαρικά και παραδοσιακές ιταλικές γεύσεις. Δείτε την προσωπική μας εμπειρία και ανακαλύψτε αν το Capriccioza είναι πραγματικά η καλύτερη επιλογή για ιταλικό φαγητό στην πόλη. Ιδανικό βίντεο για όλους τους λάτρεις της ιταλικής κουζίνας και όσους ψάχνουν το επόμενο αγαπημένο τους στέκι!`,
@@ -398,6 +416,126 @@ export const allVideoProjects: VideoProject[] = [
     //software_used: ["Davinci Resolve"],
   },
 
+{
+  id: "5mTsyNG1U38",
+  video_title: "inPozar: Εστιατόριο Άσσωρος Λουτρά Πόζαρ",
+  video_description: "🍷 Άσσωρος Πόζαρ  Εκεί που η γεύση συναντά την απόλαυση! Στην καρδιά της λουτρόπολης των Λουτρών Πόζαρ, ο Άσσωρος σε προσκαλεί σε ένα ταξίδι γεύσεων που δεν ξεχνιέται! Κάθε πιάτο, μια μικρή ιστορία… μαγειρεμένη με μεράκι, φαντασία και τα πιο αγνά υλικά. Από τις παραδοσιακές συνταγές μέχρι τις πιο δημιουργικές προτάσεις, εδώ η κάθε μπουκιά γίνεται εμπειρία! Ζήσε την αυθεντική φιλοξενία, απόλαυσε τα αρώματα, και άσε τη γεύση να σε μαγέψει. #Ασσωρος #ΛουτραΠοζαρ #ΕστιατοριοΑσσωρος #inPozar #GreekFood #TasteOfGreece #Gastronomy #FoodLovers #PozarSprings #VisitPozar #TraditionalCuisine #FoodArt",
+  tags: [],
+  cover_image: "5mTsyNG1U38",
+  publish_date: "2025-10-29",
+  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
+  client_image: "/companies/inpozarlogo.jpg",
+  client_feedback: "",
+  video_link: "https://youtu.be/5mTsyNG1U38?si=00g2NU52X1u1PjUD",
+  project_images: [],
+  category: ["Tourism", "Cinematic"],
+  duration: "1:34",
+},
+
+
+
+
+
+
+
+{
+  id: "a8r2VgXw6pg",
+  video_title: "Studio Pantelidis: Βίντεο Γάμου Μανώλης & Ειρήνη",
+  video_description: "",
+  tags: [],
+  cover_image: "a8r2VgXw6pg",
+  publish_date: "2025-10-16",
+  client_name: "Studio Pantelidis",
+  client_image: "/companies/studiopatelidislogo.jpg",
+  client_feedback: "",
+  video_link: "https://youtu.be/a8r2VgXw6pg?si=kRLkOdVMYuyDNPiH",
+  project_images: [],
+  category: ["Cinematic",],
+  duration: "2:52",
+},
+
+{
+  id: "LC0ZEK_muYw",
+  video_title: "inPozar: Λουτρά Πόζαρ",
+  video_description: "🎬 4 Εποχές – Ένας Προορισμός | Λουτρά Πόζαρ Υπάρχουν μέρη που δεν γνωρίζουν εποχή. Εκεί όπου το νερό κυλά αδιάκοπα, η φύση αλλάζει φορεσιά… κι όμως, η μαγεία μένει ίδια. Τα Λουτρά Πόζαρ δεν είναι απλώς ένας προορισμός — είναι μια εμπειρία που σε ταξιδεύει κάθε στιγμή του χρόνου. 4 Εποχές – Ένας Προορισμός. Λουτρά Πόζαρ. #LoutraPozar #PozarThermalBaths #inPozar #4SeasonsOneDestination #PozarSprings #GreekNature #VisitPozar #TravelGreece #PozarExperience #ThermalWaters #ExploreGreece",
+  tags: [],
+  cover_image: "LC0ZEK_muYw",
+  publish_date: "2025-11-13",
+  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
+  client_image: "/companies/inpozarlogo.jpg",
+  client_feedback: "",
+  video_link: "https://youtu.be/LC0ZEK_muYw?si=rVskB7chWy4KmqGs",
+  project_images: [],
+  category: ["Tourism", "Cinematic"],
+  duration: "0:48",
+},
+
+{
+  id: "jKeXl7CUP0g",
+  video_title: "Studio Pantelidis: Βίντεο Γάμου Γιώργος & Ιωάννα",
+  video_description: "",
+  tags: [],
+  cover_image: "jKeXl7CUP0g",
+  publish_date: "2025-11-11",
+  client_name: "Studio Pantelidis",
+  client_image: "/companies/studiopatelidislogo.jpg",
+  client_feedback: "",
+  video_link: "https://youtu.be/jKeXl7CUP0g?si=F8x7l9PHuZwvphe6",
+  project_images: [],
+  category: ["Cinematic",],
+  duration: "1:35",
+},
+
+{
+  id: "7556205170107878678",
+  video_title: "Smoke Island Vapes : Advertisement Video",
+  video_description: "🚀 Αυτό είναι μόνο η αρχή… Από ένα μικρό μαγαζί στην Κρήτη σε κάτι πολύ μεγαλύτερο. Κάνε follow για να δεις το ταξίδι του Smoke Island 👀 #fyp #viral #business #tiktokgreece",
+  tags: [],
+  cover_image: "https://www.tiktok.com/@smokeislandvape/video/7556205170107878678",
+  publish_date: "2025-10-01",
+  client_name: "Smoke Island",
+  client_image: "/companies/smokeislandlogo.png",
+  client_feedback: "",
+  video_link: "https://www.tiktok.com/@smokeislandvape/video/7556205170107878678",
+  project_images: [],
+  category: ["Advertisement",],
+  duration: "1:17",
+},
+
+{
+  id: "7554445708846386454",
+  video_title: "LessDietOfficial: Vitamin D3",
+  video_description: "Εσύ ήξερες πόσο σημαντική είναι η Βιταμίνη D3;",
+  tags: [],
+  cover_image: "https://www.tiktok.com/@lessdietofficial/video/7554445708846386454",
+  publish_date: "2025-09-26",
+  client_name: "LessDietOfficial",
+  client_image: "/companies/lessdietofficial.png",
+  client_feedback: "",
+  video_link: "https://www.tiktok.com/@lessdietofficial/video/7554445708846386454",
+  project_images: [],
+  category: ["Health", "Advertisement"],
+  duration: "0:48",
+},
+
+{
+  id: "7559201176449862934",
+  video_title: "Smoke Island Vapes : Advertisement Video 2",
+  video_description: "Είναι τελικά τόσο κακή όσο νομιζουμε; 🤔 #viral #fyp",
+  tags: [],
+  cover_image: "https://www.tiktok.com/@smokeislandvape/video/7559201176449862934",
+  publish_date: "2025-10-09",
+  client_name: "Smoke Island",
+  client_image: "/companies/smokeislandlogo.png",
+  client_feedback: "",
+  video_link: "https://www.tiktok.com/@smokeislandvape/video/7559201176449862934",
+  project_images: [],
+  category: ["Health","Advertisement",],
+  duration: "0:52",
+},
+
+
+
   {
     id: "7546680709956652310",
     video_title: "Δημήτρης Μιχαηλίδης: Lidl",
@@ -412,28 +550,44 @@ export const allVideoProjects: VideoProject[] = [
     client_feedback: "",
     video_link: "https://www.tiktok.com/@dimitris__michailidis/video/7546680709956652310",
     project_images: [],
-    category: ["Food"],
+    category: ["Food", "Advertisement"],
     duration: "0:55",
     //software_used: ["Davinci Resolve"],
   },
 
-  
-{
-  id: "7495431764522028310",
-  video_title: "Paros Super Trips: Advertisement Video",
-  video_description: "Private sunset ride in Paros. Would you do it like this? Tag your travel buddy. #ParosSuperTrips #LuxuryTransfers #GreekIslandLife #ExploreParos #TravelGreece #TravelGoals #ConSantanderConecto",
+  {
+  id: "7559215805704129814",
+  video_title: "Top Dog: Shampoo Advertisment Video",
+  video_description: "Εσύ γνωρίζεις κάθε πότε πρέπει να κάνει μπανάκι ο σκύλος σου ;; 💛 — Με το σωστό σαμπουάν, ο μικρός σου φίλος θα νιώθει και θα μυρίζει υπέροχα! • #TopDog #PetCare #DogGrooming #Dog #Shampoo",
   tags: [],
-  cover_image: "https://www.tiktok.com/@dimitris__michailidis/video/7550391559695387926",
-  publish_date: "2025-04-20",
-  client_name: "Paros Super Trips",
-  client_image: "/companies/parossupertripslogo.png",
+  cover_image: "https://www.tiktok.com/@topdog_pet_products/video/7559215805704129814",
+  publish_date: "2025-10-09",
+  client_name: "Top Dog - Natural Pet Products",
+  client_image: "/companies/topdoglogo.png",
   client_feedback: "",
-  video_link: "https://www.tiktok.com/@paros.super.trips/video/7495431764522028310",
+  video_link: "https://www.tiktok.com/@topdog_pet_products/video/7559215805704129814",
   project_images: [],
-  category: ["Tourism", "Advertisement", "Promotion"],
+  category: ["Pets", "Advertisement"],
   duration: "0:38",
-  //software_used: ["CapCut"],
 },
+
+{
+  id: "7542191501661539606",
+  video_title: "Taz Smash Burgers: Advertisment",
+  video_description: "⚠️❗️SUMMER SALE 5 € ❗️⚠️ Enjoy the summer with taste and offer at TAZ ❗️ Single cheeseburger, medium crispy potatoes and soft drink 330ml, only for 5 € The offer is valid for the whole of August in e-food and in our stores outside Mykonos ❗️ The offer is valid for these stores: 📍 Pericleous 2, Maroussi (opposite the electric one) ☎️ Phone: + 30 210 8025002 📍 Perikli Stavrou 3, Athens (Katechaki) ☎️ Phone: + 30 210 6998986 📦 E-food: Taz smash burger #tazsmashburgers#burgerlover#tastethebest#bestburger#bestburgerintown",
+  tags: [],
+  cover_image: "https://www.tiktok.com/@taz_smash_burgers/video/7542191501661539606",
+  publish_date: "2025-08-24",
+  client_name: "Taz Smash Burger",
+  client_image: "/companies/tazsmashburgerslogo.png",
+  client_feedback: "",
+  video_link: "https://www.tiktok.com/@taz_smash_burgers/video/7542191501661539606",
+  project_images: [],
+  category: ["Food", "Advertisement"],
+  duration: "0:30",
+},
+  
+
 
 {
   id: "7525030482887691553",
@@ -484,52 +638,42 @@ export const allVideoProjects: VideoProject[] = [
 },
 
 {
-  id: "7542191501661539606",
-  video_title: "Taz Smash Burgers: Advertisment",
-  video_description: "⚠️❗️SUMMER SALE 5 € ❗️⚠️ Enjoy the summer with taste and offer at TAZ ❗️ Single cheeseburger, medium crispy potatoes and soft drink 330ml, only for 5 € The offer is valid for the whole of August in e-food and in our stores outside Mykonos ❗️ The offer is valid for these stores: 📍 Pericleous 2, Maroussi (opposite the electric one) ☎️ Phone: + 30 210 8025002 📍 Perikli Stavrou 3, Athens (Katechaki) ☎️ Phone: + 30 210 6998986 📦 E-food: Taz smash burger #tazsmashburgers#burgerlover#tastethebest#bestburger#bestburgerintown",
+  id: "7566389323944201474",
+  video_title: "Snobaria: The Travel Crew",
+  video_description: "ΜΑΝΤΕΨΤΕ ΤΟΝ ΠΡΟΟΡΙΣΜΟ @Markella Travels✈️🌍🌺 #snobaria",
   tags: [],
-  cover_image: "https://www.tiktok.com/@taz_smash_burgers/video/7542191501661539606",
-  publish_date: "2025-08-24",
-  client_name: "Taz Smash Burger",
-  client_image: "/companies/tazsmashburgerslogo.png",
+  cover_image: "https://www.tiktok.com/@snobaria/video/7566389323944201474",
+  publish_date: "2025-10-28",
+  client_name: "Snobaria",
+  client_image: "/companies/snobarialogo.png",
   client_feedback: "",
-  video_link: "https://www.tiktok.com/@taz_smash_burgers/video/7542191501661539606",
+  video_link: "https://www.tiktok.com/@snobaria/video/7566389323944201474",
   project_images: [],
-  category: ["Food",],
-  duration: "0:30",
+  category: ["Advertisement", "Tourism"],
+  duration: "1:48",
 },
 
-{
-  id: "7556205170107878678",
-  video_title: "Smoke Island Vapes : Advertisement Video",
-  video_description: "🚀 Αυτό είναι μόνο η αρχή… Από ένα μικρό μαγαζί στην Κρήτη σε κάτι πολύ μεγαλύτερο. Κάνε follow για να δεις το ταξίδι του Smoke Island 👀 #fyp #viral #business #tiktokgreece",
-  tags: [],
-  cover_image: "https://www.tiktok.com/@smokeislandvape/video/7556205170107878678",
-  publish_date: "2025-10-01",
-  client_name: "Smoke Island",
-  client_image: "/companies/smokeislandlogo.png",
-  client_feedback: "",
-  video_link: "https://www.tiktok.com/@smokeislandvape/video/7556205170107878678",
-  project_images: [],
-  category: ["Advertisement",],
-  duration: "1:17",
-},
+
+
+
 
 {
-  id: "7559201176449862934",
-  video_title: "Smoke Island Vapes : Advertisement Video 2",
-  video_description: "Είναι τελικά τόσο κακή όσο νομιζουμε; 🤔 #viral #fyp",
+  id: "7495431764522028310",
+  video_title: "Paros Super Trips: Advertisement Video",
+  video_description: "Private sunset ride in Paros. Would you do it like this? Tag your travel buddy. #ParosSuperTrips #LuxuryTransfers #GreekIslandLife #ExploreParos #TravelGreece #TravelGoals #ConSantanderConecto",
   tags: [],
-  cover_image: "https://www.tiktok.com/@smokeislandvape/video/7559201176449862934",
-  publish_date: "2025-10-09",
-  client_name: "Smoke Island",
-  client_image: "/companies/smokeislandlogo.png",
+  cover_image: "https://www.tiktok.com/@dimitris__michailidis/video/7550391559695387926",
+  publish_date: "2025-04-20",
+  client_name: "Paros Super Trips",
+  client_image: "/companies/parossupertripslogo.png",
   client_feedback: "",
-  video_link: "https://www.tiktok.com/@smokeislandvape/video/7559201176449862934",
+  video_link: "https://www.tiktok.com/@paros.super.trips/video/7495431764522028310",
   project_images: [],
-  category: ["Advertisement",],
-  duration: "0:52",
+  category: ["Tourism", "Advertisement"],
+  duration: "0:38",
+  //software_used: ["CapCut"],
 },
+
 
 {
   id: "7556919446271659266",
@@ -543,57 +687,14 @@ export const allVideoProjects: VideoProject[] = [
   client_feedback: "",
   video_link: "https://www.tiktok.com/@rocket.dust/video/7556919446271659266",
   project_images: [],
-  category: ["Action",],
+  category: ["Lifestyle", "Advertisement"],
   duration: "1:13",
 },
 
-{
-  id: "7554445708846386454",
-  video_title: "LessDietOfficial: Vitamin D3",
-  video_description: "Εσύ ήξερες πόσο σημαντική είναι η Βιταμίνη D3;",
-  tags: [],
-  cover_image: "https://www.tiktok.com/@lessdietofficial/video/7554445708846386454",
-  publish_date: "2025-09-26",
-  client_name: "LessDietOfficial",
-  client_image: "/companies/lessdietofficial.png",
-  client_feedback: "",
-  video_link: "https://www.tiktok.com/@lessdietofficial/video/7554445708846386454",
-  project_images: [],
-  category: ["Health",],
-  duration: "0:48",
-},
 
-{
-  id: "7559215805704129814",
-  video_title: "Top Dog: Shampoo Advertisment Video",
-  video_description: "Εσύ γνωρίζεις κάθε πότε πρέπει να κάνει μπανάκι ο σκύλος σου ;; 💛 — Με το σωστό σαμπουάν, ο μικρός σου φίλος θα νιώθει και θα μυρίζει υπέροχα! • #TopDog #PetCare #DogGrooming #Dog #Shampoo",
-  tags: [],
-  cover_image: "https://www.tiktok.com/@topdog_pet_products/video/7559215805704129814",
-  publish_date: "2025-10-09",
-  client_name: "Top Dog - Natural Pet Products",
-  client_image: "/companies/topdoglogo.png",
-  client_feedback: "",
-  video_link: "https://www.tiktok.com/@topdog_pet_products/video/7559215805704129814",
-  project_images: [],
-  category: ["Pets",],
-  duration: "0:38",
-},
 
-{
-  id: "7570648601974672662",
-  video_title: "Giannelis: Salt Chip Challenge",
-  video_description: "Βρήκα γυναίκες στην Αθήνα ! #giannelis #koupi #saltchipchallenge",
-  tags: [],
-  cover_image: "https://www.tiktok.com/@giannelis_/video/7570648601974672662",
-  publish_date: "2025-11-09",
-  client_name: "Giannelis",
-  client_image: "/companies/giannelislogo.png",
-  client_feedback: "",
-  video_link: "https://www.tiktok.com/@giannelis_/video/7570648601974672662",
-  project_images: [],
-  category: ["Challenge",],
-  duration: "0:59",
-},
+
+
 
 
 {
@@ -628,20 +729,21 @@ export const allVideoProjects: VideoProject[] = [
   duration: "0:59",
 },
 
+
 {
-  id: "7566389323944201474",
-  video_title: "Snobaria: The Travel Crew",
-  video_description: "ΜΑΝΤΕΨΤΕ ΤΟΝ ΠΡΟΟΡΙΣΜΟ @Markella Travels✈️🌍🌺 #snobaria",
+  id: "7570648601974672662",
+  video_title: "Giannelis: Salt Chip Challenge",
+  video_description: "Βρήκα γυναίκες στην Αθήνα ! #giannelis #koupi #saltchipchallenge",
   tags: [],
-  cover_image: "https://www.tiktok.com/@snobaria/video/7566389323944201474",
-  publish_date: "2025-10-28",
-  client_name: "Snobaria",
-  client_image: "/companies/snobarialogo.png",
+  cover_image: "https://www.tiktok.com/@giannelis_/video/7570648601974672662",
+  publish_date: "2025-11-09",
+  client_name: "Giannelis",
+  client_image: "/companies/giannelislogo.png",
   client_feedback: "",
-  video_link: "https://www.tiktok.com/@snobaria/video/7566389323944201474",
+  video_link: "https://www.tiktok.com/@giannelis_/video/7570648601974672662",
   project_images: [],
-  category: ["Advertisement", "Tourism"],
-  duration: "1:48",
+  category: ["Food", "Advertisement"],
+  duration: "0:59",
 },
 
 {
@@ -656,10 +758,24 @@ export const allVideoProjects: VideoProject[] = [
   client_feedback: "",
   video_link: "https://www.tiktok.com/@snobaria/video/7564097268593216790",
   project_images: [],
-  category: ["Advertisement", "Haul"],
+  category: ["Advertisement", "Lifestyle"],
   duration: "2:29",
 },
-
+{
+  id: "7gNm8POM6QI",
+  video_title: "ItsOnlySkillz: SufShark VPN",
+  video_description: "ΜΕ ΕΒΑΛΑΝ ΣΤΗΝ ΦΥΛΑΚΗ ΤΟΥ ΑΛΚΑΤΡΑΖ (GTA RP) ΚΑΤΕΒΑΣΕ ΤΟ Surfshark εδώ : https://surfshark.com/onlyskillz βάλτε τον κωδικό ONLYSKILLZ στο checkout και θα πάρετε 4 extra μήνες Surfshark VPN! ΣΤΟ ΣΗΜΕΡΙΝΟ GTA RP ΜΕ ΣΤΕΛΝΟΥΝ ΣΤΗ ΘΡΥΛΙΚΗ ΦΥΛΑΚΗ ΤΟΥ ΑΛΚΑΤΡΑΖ. ΦΡΟΥΡΟΙ, ΕΠΙΚΙΝΔΥΝΟΙ ΚΡΑΤΟΥΜΕΝΟΙ ΚΑΙ ΜΥΣΤΙΚΑ ΠΕΡΑΣΜΑΤΑ ΠΟΥ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΔΩ ΚΑΝΕΙΣ. ΘΑ ΚΑΤΑΦΕΡΩ ΝΑ ΕΠΙΖΗΣΩ; ΘΑ ΑΠΟΔΡΑΣΩ; Ή ΘΑ ΜΕΙΝΩ ΓΙΑ ΠΑΝΤΑ ΣΤΟ ΑΛΚΑΤΡΑΖ; ΔΕΣ ΜΕΧΡΙ ΤΟ ΤΕΛΟΣ ΓΙΑΤΙ ΣΥΜΒΑΙΝΕΙ ΚΑΤΙ ΠΟΥ ΑΛΛΑΖΕΙ ΤΗΝ ΙΣΤΟΡΙΑ ΤΟΥ EMERALD CITY. ΚΑΝΕ LIKE & COMMENT ΑΝ ΘΕΣ ΣΥΝΕΧΕΙΑ ΜΕ ΑΠΟΔΡΑΣΕΙΣ.",
+  tags: [],
+  cover_image: "7gNm8POM6QI",
+  publish_date: "2025-10-13",
+  client_name: "ItsOnlySkillz",
+  client_image: "/companies/itsonlyskillzlogo.png",
+  client_feedback: "",
+  video_link: "https://youtu.be/7gNm8POM6QI?si=D5Gc5-Sc0QOq-x3e&t=345",
+  project_images: [],
+  category: ["Advertisement",],
+  duration: "0:44",
+},
 {
   id: "AR4nC1nQr4g",
   video_title: "ItsOnlySkillz: Playmobil",
@@ -676,107 +792,13 @@ export const allVideoProjects: VideoProject[] = [
   duration: "1:03",
 },
 
-{
-  id: "7gNm8POM6QI",
-  video_title: "ItsOnlySkillz: SufShark VPN",
-  video_description: "ΜΕ ΕΒΑΛΑΝ ΣΤΗΝ ΦΥΛΑΚΗ ΤΟΥ ΑΛΚΑΤΡΑΖ (GTA RP) ΚΑΤΕΒΑΣΕ ΤΟ Surfshark εδώ : https://surfshark.com/onlyskillz βάλτε τον κωδικό ONLYSKILLZ στο checkout και θα πάρετε 4 extra μήνες Surfshark VPN! ΣΤΟ ΣΗΜΕΡΙΝΟ GTA RP ΜΕ ΣΤΕΛΝΟΥΝ ΣΤΗ ΘΡΥΛΙΚΗ ΦΥΛΑΚΗ ΤΟΥ ΑΛΚΑΤΡΑΖ. ΦΡΟΥΡΟΙ, ΕΠΙΚΙΝΔΥΝΟΙ ΚΡΑΤΟΥΜΕΝΟΙ ΚΑΙ ΜΥΣΤΙΚΑ ΠΕΡΑΣΜΑΤΑ ΠΟΥ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΔΩ ΚΑΝΕΙΣ. ΘΑ ΚΑΤΑΦΕΡΩ ΝΑ ΕΠΙΖΗΣΩ; ΘΑ ΑΠΟΔΡΑΣΩ; Ή ΘΑ ΜΕΙΝΩ ΓΙΑ ΠΑΝΤΑ ΣΤΟ ΑΛΚΑΤΡΑΖ; ΔΕΣ ΜΕΧΡΙ ΤΟ ΤΕΛΟΣ ΓΙΑΤΙ ΣΥΜΒΑΙΝΕΙ ΚΑΤΙ ΠΟΥ ΑΛΛΑΖΕΙ ΤΗΝ ΙΣΤΟΡΙΑ ΤΟΥ EMERALD CITY. ΚΑΝΕ LIKE & COMMENT ΑΝ ΘΕΣ ΣΥΝΕΧΕΙΑ ΜΕ ΑΠΟΔΡΑΣΕΙΣ.",
-  tags: [],
-  cover_image: "7gNm8POM6QI",
-  publish_date: "2025-10-13",
-  client_name: "ItsOnlySkillz",
-  client_image: "/companies/itsonlyskillzlogo.png",
-  client_feedback: "",
-  video_link: "https://youtu.be/7gNm8POM6QI?si=D5Gc5-Sc0QOq-x3e&t=345",
-  project_images: [],
-  category: ["Advertisement",],
-  duration: "0:44",
-},
-
-{
-  id: "5mTsyNG1U38",
-  video_title: "inPozar: Εστιατόριο Άσσωρος Λουτρά Πόζαρ",
-  video_description: "🍷 Άσσωρος Πόζαρ  Εκεί που η γεύση συναντά την απόλαυση! Στην καρδιά της λουτρόπολης των Λουτρών Πόζαρ, ο Άσσωρος σε προσκαλεί σε ένα ταξίδι γεύσεων που δεν ξεχνιέται! Κάθε πιάτο, μια μικρή ιστορία… μαγειρεμένη με μεράκι, φαντασία και τα πιο αγνά υλικά. Από τις παραδοσιακές συνταγές μέχρι τις πιο δημιουργικές προτάσεις, εδώ η κάθε μπουκιά γίνεται εμπειρία! Ζήσε την αυθεντική φιλοξενία, απόλαυσε τα αρώματα, και άσε τη γεύση να σε μαγέψει. #Ασσωρος #ΛουτραΠοζαρ #ΕστιατοριοΑσσωρος #inPozar #GreekFood #TasteOfGreece #Gastronomy #FoodLovers #PozarSprings #VisitPozar #TraditionalCuisine #FoodArt",
-  tags: [],
-  cover_image: "5mTsyNG1U38",
-  publish_date: "2025-10-29",
-  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
-  client_image: "/companies/inpozarlogo.jpg",
-  client_feedback: "",
-  video_link: "https://youtu.be/5mTsyNG1U38?si=00g2NU52X1u1PjUD",
-  project_images: [],
-  category: ["Tourism",],
-  duration: "1:34",
-},
-
-{
-  id: "LC0ZEK_muYw",
-  video_title: "inPozar: Λουτρά Πόζαρ",
-  video_description: "🎬 4 Εποχές – Ένας Προορισμός | Λουτρά Πόζαρ Υπάρχουν μέρη που δεν γνωρίζουν εποχή. Εκεί όπου το νερό κυλά αδιάκοπα, η φύση αλλάζει φορεσιά… κι όμως, η μαγεία μένει ίδια. Τα Λουτρά Πόζαρ δεν είναι απλώς ένας προορισμός — είναι μια εμπειρία που σε ταξιδεύει κάθε στιγμή του χρόνου. 4 Εποχές – Ένας Προορισμός. Λουτρά Πόζαρ. #LoutraPozar #PozarThermalBaths #inPozar #4SeasonsOneDestination #PozarSprings #GreekNature #VisitPozar #TravelGreece #PozarExperience #ThermalWaters #ExploreGreece",
-  tags: [],
-  cover_image: "LC0ZEK_muYw",
-  publish_date: "2025-11-13",
-  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
-  client_image: "/companies/inpozarlogo.jpg",
-  client_feedback: "",
-  video_link: "https://youtu.be/LC0ZEK_muYw?si=rVskB7chWy4KmqGs",
-  project_images: [],
-  category: ["Tourism",],
-  duration: "0:48",
-},
-
-
-
-{
-  id: "jKeXl7CUP0g",
-  video_title: "Studio Pantelidis: Βίντεο Γάμου Γιώργος & Ιωάννα",
-  video_description: "",
-  tags: [],
-  cover_image: "jKeXl7CUP0g",
-  publish_date: "2025-11-11",
-  client_name: "Studio Pantelidis",
-  client_image: "/companies/studiopatelidislogo.jpg",
-  client_feedback: "",
-  video_link: "https://youtu.be/jKeXl7CUP0g?si=F8x7l9PHuZwvphe6",
-  project_images: [],
-  category: ["Wedding",],
-  duration: "1:35",
-},
-
-{
-  id: "a8r2VgXw6pg",
-  video_title: "Studio Pantelidis: Βίντεο Γάμου Μανώλης & Ειρήνη",
-  video_description: "",
-  tags: [],
-  cover_image: "a8r2VgXw6pg",
-  publish_date: "2025-10-16",
-  client_name: "Studio Pantelidis",
-  client_image: "/companies/studiopatelidislogo.jpg",
-  client_feedback: "",
-  video_link: "https://youtu.be/a8r2VgXw6pg?si=kRLkOdVMYuyDNPiH",
-  project_images: [],
-  category: ["Wedding",],
-  duration: "2:52",
-},
 
 
 
 
 
-{
-  id: "lmSAfFDe2oI",
-  video_title: "inPozar: ΛΟΥΤΡΑ ΠΟΖΑΡ",
-  video_description: "Τέσσερις εποχές. Ένας προορισμός.Κάθε εποχή, ένα νέο πρόσωπο της φύσης. Κάθε σταγόνα, μια ιστορία που ψιθυρίζει μέσα στους ατμούς των Λουτρών Πόζαρ. 💧 Εδώ ο χειμώνας καίει με τη ζεστασιά του νερού. Η άνοιξη ανθίζει μέσα στον ήχο του ποταμού. Το καλοκαίρι λάμπει κάτω από το φως των βράχων. Και το φθινόπωρο ντύνει τα πάντα με χρυσό. 🍁 Αυτό δεν είναι απλώς ένας τόπος. Είναι μια εμπειρία που σε καλεί να την ζήσεις — ξανά και ξανά. Λουτρά Πόζαρ. Τέσσερις εποχές, ένας προορισμός. 🌿 #LoutraPozar #PozarThermalBaths #FourSeasonsOneDestination #inPozar #PozarExperience #VisitAlmopia #NatureDreams #GreeceAllYear #DiscoverGreece #ThermalEscape #PozarMagic #GreekNature",
-  tags: [],
-  cover_image: "lmSAfFDe2oI",
-  publish_date: "2025-10-15",
-  client_name: "inPozar “Οδηγός Λουτρών Πόζαρ",
-  client_image: "/companies/inpozarlogo.jpg",
-  client_feedback: "",
-  video_link: "https://youtu.be/lmSAfFDe2oI?si=rQR1AbODfU1S-XSI",
-  project_images: [],
-  category: ["Tourism",],
-  duration: "2:09",
-},
+
+
 
 
 

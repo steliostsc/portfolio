@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion } from "framer-motion";
-import { Menu, X, Play } from "lucide-react";
+import { Menu, X, Play, ClapperboardIcon } from "lucide-react";
 import { Clapperboard } from "./ui/Clapperboard";
 
 const navItems = [
@@ -42,7 +42,10 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center space-x-2">
             <div className="w-7 h-7 rounded-lg flex items-center justify-center">
-              <Clapperboard />
+              <ClapperboardIcon/>
+
+
+
             </div>
             <span className="text-xl font-bold text-white">Stelios Tsekouras</span>
           </Link>
